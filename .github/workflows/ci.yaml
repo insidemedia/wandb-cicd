@@ -1,5 +1,4 @@
-name: GitHub Actions Demo
-
+name: job one
 on: [push]
 
 jobs:
